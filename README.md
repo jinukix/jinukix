@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?color=auto)
-
 <h3 align="center"> Hi! </h3>
 
 <h2 align="center"> :hammer_and_pick:  Technology Stack  :hammer_and_pick:</h2>
