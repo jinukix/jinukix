@@ -11,4 +11,4 @@
 
 
 #### Vlog
-<a href="https://velog.io/@jinukix"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Vim&logoColor=white"/></a></a>
+<a href="https://velog.io/@jinukix"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Vimeo&logoColor=white"/></a></a>
