@@ -10,5 +10,5 @@
 </p>
 
 
-#### Vlog
+#### Velog
 <a href="https://velog.io/@jinukix"><img src="https://img.shields.io/badge/Velog-218C21?style=flat-square&logo=Vimeo&logoColor=white"/></a></a>
