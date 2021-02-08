@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=5A5FDB&height=400&section=header&text=Hi!%20🙏I'm%20Jinuk&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=slice&color=5A5FDB&height=400&section=header&text=Hi!%20🤣I'm%20Jinuk&fontSize=55)
 
 <h2 align="left"> :hammer_and_pick:  Technology Stack  :hammer_and_pick:</h2>
 
