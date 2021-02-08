@@ -2,11 +2,6 @@
 <img  src="https://komarev.com/ghpvc/?username=Jinukix" alt="Jinukix" />
 <img src="https://github-readme-stats.vercel.app/api?username=Jinukix&count_private=true&show_icons=true&theme=dracula" alt="devded" width="500"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jinukix&layout=compact&theme=dracula" />
-</a>
-
 ## ⚒️ My Skills ⚒️
 <p>
   <img src= "https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> 
