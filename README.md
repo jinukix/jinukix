@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20Jinuk%20%20&width=100px&height=400&fontSize=100&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20Jinuk%20%20&height=400&fontSize=100&fontColor=000000)
 
 
 <p align="center">
