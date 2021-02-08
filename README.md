@@ -3,7 +3,7 @@
 <img  src="https://komarev.com/ghpvc/?username=Jinukix" alt="Jinukix" />
 <img src="https://github-readme-stats.vercel.app/api?username=Jinukix&count_private=true&show_icons=true&theme=dracula" alt="devded" width="500"/>
 
-<p align='right'>
+<p align='left'>
   ⚒️ My Skills ⚒️
   <div align='center'>
     <img src="https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
