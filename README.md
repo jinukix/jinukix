@@ -1,5 +1,4 @@
 
-## Hi?
 <img  src="https://komarev.com/ghpvc/?username=Jinukix" alt="Jinukix" />
 <img src="https://github-readme-stats.vercel.app/api?username=Jinukix&count_private=true&show_icons=true&theme=dracula" alt="devded" width="500"/>
 
@@ -13,7 +12,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 </p>
 
-## I`m
 <p>
   <a href="https://velog.io/@jinukix/"> <img src="https://img.shields.io/badge/Velog-4ED998?style=for-the-badge&logo=Vimeo&logoColor=white">
   <a href="mailto:wfo3977@gmail.com"> <img src="https://img.shields.io/badge/Gmail-C63319?style=for-the-badge&logo=Gmail&logoColor=white"> 
