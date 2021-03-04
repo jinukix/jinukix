@@ -9,11 +9,10 @@
   <img src="https://img.shields.io/badge/MySQL-5295B4?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/AWS-20195A?style=for-the-badge&logo=Amazon-AWS&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-f43059.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-f43059.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <p>
